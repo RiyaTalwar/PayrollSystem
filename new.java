@@ -1,0 +1,12 @@
+201411040,Albert
+Class,2
+201411041,Bert
+Class,2
+201411042,Cynthia
+Class,Removed
+201411043,David
+Class,1
+201411044,Ethan
+Class,Removed
+201411045,Frank
+Class,1
