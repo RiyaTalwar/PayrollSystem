@@ -1,4 +1,4 @@
-payroll system case study
+                                  PAYROLL SYSTEM CASE STUDY
 
 Google pays salary to employee as per their work in shifts. Google has policy of two shifts, half
 shift and full shift. 10:00AM to 3:00PM is considered as half shift and 10:00AM to 8:00PM
